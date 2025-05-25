@@ -7,3 +7,6 @@ Hi neha
 this is new added line for git pull
 >>>>>>> 1fde1b8e825c0c6a513463843bd73cf867db81fc
 this is git fetch
+
+
+this is new line had been added after git stash
