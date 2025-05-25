@@ -1,4 +1,8 @@
 my name is neha m
 i am studying java
 i am learning Full stack
+<<<<<<< HEAD
 Hi neha
+=======
+this is new added line for git pull
+>>>>>>> 1fde1b8e825c0c6a513463843bd73cf867db81fc
